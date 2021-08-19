@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ayebiahwea10/0657c731-cd4f-4402-bbe7-7ae573717ab1/5fdbddfe-ff27-442f-9846-bb9323802a11/_apis/work/boardbadge/1a552036-d121-465b-95b9-5448dbecc968)](https://dev.azure.com/ayebiahwea10/0657c731-cd4f-4402-bbe7-7ae573717ab1/_boards/board/t/5fdbddfe-ff27-442f-9846-bb9323802a11/Microsoft.RequirementCategory)
 # ![Bot Framework](./docs/media/BotFrameworkSDK.png)
 
 ### [What's new with Bot Framework?](https://docs.microsoft.com/en-us/azure/bot-service/what-is-new?view=azure-bot-service-4.0)
